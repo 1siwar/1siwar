@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siwar Garrouri</h1>
-<h3 align="center">A Data Scientist from Tunisia</h3>
+<h3 align="center">AI Engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="image description" align="right" width="400px"> </p>
 
