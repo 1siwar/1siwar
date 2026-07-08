@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" alt="image description" align="right" width="400px"> </p>
 
-- 💬 Ask me about **Machine Leaning**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **siwargarrouri57@gmail.com**
 
